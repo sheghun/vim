@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/segunoladiran/projects/example/appengine-hello'
+let g:netrw_dirhist_6='/Users/segunoladiran/projects/example'
+let g:netrw_dirhist_5='/Users/segunoladiran/projects/example/hello'
+let g:netrw_dirhist_4='/Users/segunoladiran/projects/example/hello/reverse'
+let g:netrw_dirhist_3='/Users/segunoladiran/projects/example/hello'
+let g:netrw_dirhist_2='/Users/segunoladiran/projects/example'
+let g:netrw_dirhist_1='/Users/segunoladiran/.oh-my-zsh'
